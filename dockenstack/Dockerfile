@@ -1,7 +1,7 @@
 # Eric Windisch '2014
 # Forked from code by original author: Paul Czarkowski
 
-FROM ewindisch/dockenstack-base
+FROM sawab/dockenstack-base
 MAINTAINER Eric Windisch "ewindisch@docker.com"
 
 #
